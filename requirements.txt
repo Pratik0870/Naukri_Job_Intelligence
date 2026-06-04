@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+streamlit
+rapidfuzz

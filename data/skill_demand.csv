@@ -1,0 +1,21 @@
+,count,pct_of_jobs
+python,46,27.2
+sql,43,25.4
+power bi,39,23.1
+machine learning,36,21.3
+tableau,11,6.5
+nlp,11,6.5
+azure,10,5.9
+pyspark,8,4.7
+excel,6,3.6
+tensorflow,6,3.6
+spark,5,3.0
+etl,5,3.0
+deep learning,5,3.0
+git,4,2.4
+pytorch,3,1.8
+gcp,3,1.8
+snowflake,3,1.8
+hadoop,3,1.8
+data pipeline,3,1.8
+aws,3,1.8

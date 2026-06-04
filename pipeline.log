@@ -1,0 +1,170 @@
+2026-06-04 15:46:19,573 - ====== WebDriver manager ======
+2026-06-04 15:46:20,405 - Driver [C:\Users\Pratik patil\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-04 15:46:40,687 - data analyst | page 1: 20 cards found
+2026-06-04 15:46:40,696 -   Extracted: 20 jobs
+2026-06-04 15:47:02,666 - data analyst | page 2: 20 cards found
+2026-06-04 15:47:02,675 -   Extracted: 20 jobs
+2026-06-04 15:47:24,486 - data analyst | page 3: 20 cards found
+2026-06-04 15:47:24,495 -   Extracted: 20 jobs
+2026-06-04 15:47:46,360 - data analyst | page 4: 20 cards found
+2026-06-04 15:47:46,369 -   Extracted: 20 jobs
+2026-06-04 15:48:08,175 - data analyst | page 5: 20 cards found
+2026-06-04 15:48:08,195 -   Extracted: 20 jobs
+2026-06-04 15:48:29,922 - data analyst | page 6: 20 cards found
+2026-06-04 15:48:29,931 -   Extracted: 20 jobs
+2026-06-04 15:48:51,972 - data analyst | page 7: 20 cards found
+2026-06-04 15:48:51,981 -   Extracted: 20 jobs
+2026-06-04 15:49:13,601 - data analyst | page 8: 20 cards found
+2026-06-04 15:49:13,609 -   Extracted: 20 jobs
+2026-06-04 15:49:35,531 - data analyst | page 9: 20 cards found
+2026-06-04 15:49:35,540 -   Extracted: 20 jobs
+2026-06-04 15:49:57,109 - data analyst | page 10: 20 cards found
+2026-06-04 15:49:57,117 -   Extracted: 20 jobs
+2026-06-04 15:50:00,118 - Total for 'data analyst': 200 jobs
+2026-06-04 15:50:23,902 - data scientist | page 1: 20 cards found
+2026-06-04 15:50:23,911 -   Extracted: 20 jobs
+2026-06-04 15:50:45,474 - data scientist | page 2: 20 cards found
+2026-06-04 15:50:45,483 -   Extracted: 20 jobs
+2026-06-04 15:51:07,336 - data scientist | page 3: 20 cards found
+2026-06-04 15:51:07,345 -   Extracted: 20 jobs
+2026-06-04 15:51:28,915 - data scientist | page 4: 20 cards found
+2026-06-04 15:51:28,924 -   Extracted: 20 jobs
+2026-06-04 15:51:50,811 - data scientist | page 5: 20 cards found
+2026-06-04 15:51:50,819 -   Extracted: 20 jobs
+2026-06-04 15:52:12,371 - data scientist | page 6: 20 cards found
+2026-06-04 15:52:12,380 -   Extracted: 20 jobs
+2026-06-04 15:52:34,254 - data scientist | page 7: 20 cards found
+2026-06-04 15:52:34,263 -   Extracted: 20 jobs
+2026-06-04 15:52:55,962 - data scientist | page 8: 20 cards found
+2026-06-04 15:52:55,971 -   Extracted: 20 jobs
+2026-06-04 15:53:17,740 - data scientist | page 9: 20 cards found
+2026-06-04 15:53:17,748 -   Extracted: 20 jobs
+2026-06-04 15:53:39,296 - data scientist | page 10: 20 cards found
+2026-06-04 15:53:39,305 -   Extracted: 20 jobs
+2026-06-04 15:53:42,305 - Total for 'data scientist': 200 jobs
+2026-06-04 15:54:06,332 - data engineer | page 1: 20 cards found
+2026-06-04 15:54:06,341 -   Extracted: 20 jobs
+2026-06-04 15:54:27,839 - data engineer | page 2: 20 cards found
+2026-06-04 15:54:27,848 -   Extracted: 20 jobs
+2026-06-04 15:54:49,749 - data engineer | page 3: 20 cards found
+2026-06-04 15:54:49,758 -   Extracted: 20 jobs
+2026-06-04 15:55:11,313 - data engineer | page 4: 20 cards found
+2026-06-04 15:55:11,322 -   Extracted: 20 jobs
+2026-06-04 15:55:33,227 - data engineer | page 5: 20 cards found
+2026-06-04 15:55:33,235 -   Extracted: 20 jobs
+2026-06-04 15:55:54,950 - data engineer | page 6: 20 cards found
+2026-06-04 15:55:54,959 -   Extracted: 20 jobs
+2026-06-04 15:56:16,770 - data engineer | page 7: 20 cards found
+2026-06-04 15:56:16,778 -   Extracted: 20 jobs
+2026-06-04 15:56:38,323 - data engineer | page 8: 20 cards found
+2026-06-04 15:56:38,332 -   Extracted: 20 jobs
+2026-06-04 15:57:00,255 - data engineer | page 9: 20 cards found
+2026-06-04 15:57:00,263 -   Extracted: 20 jobs
+2026-06-04 15:57:21,890 - data engineer | page 10: 20 cards found
+2026-06-04 15:57:21,899 -   Extracted: 20 jobs
+2026-06-04 15:57:24,899 - Total for 'data engineer': 200 jobs
+2026-06-04 15:57:48,718 - machine learning engineer | page 1: 20 cards found
+2026-06-04 15:57:48,726 -   Extracted: 20 jobs
+2026-06-04 15:58:10,283 - machine learning engineer | page 2: 20 cards found
+2026-06-04 15:58:10,291 -   Extracted: 20 jobs
+2026-06-04 15:58:32,129 - machine learning engineer | page 3: 20 cards found
+2026-06-04 15:58:32,138 -   Extracted: 20 jobs
+2026-06-04 15:58:53,690 - machine learning engineer | page 4: 20 cards found
+2026-06-04 15:58:53,698 -   Extracted: 20 jobs
+2026-06-04 15:59:15,539 - machine learning engineer | page 5: 20 cards found
+2026-06-04 15:59:15,547 -   Extracted: 20 jobs
+2026-06-04 15:59:37,099 - machine learning engineer | page 6: 20 cards found
+2026-06-04 15:59:37,107 -   Extracted: 20 jobs
+2026-06-04 15:59:58,886 - machine learning engineer | page 7: 20 cards found
+2026-06-04 15:59:58,894 -   Extracted: 20 jobs
+2026-06-04 16:00:21,093 - machine learning engineer | page 8: 20 cards found
+2026-06-04 16:00:21,102 -   Extracted: 20 jobs
+2026-06-04 16:00:43,172 - machine learning engineer | page 9: 20 cards found
+2026-06-04 16:00:43,180 -   Extracted: 20 jobs
+2026-06-04 16:01:04,829 - machine learning engineer | page 10: 20 cards found
+2026-06-04 16:01:04,838 -   Extracted: 20 jobs
+2026-06-04 16:01:07,839 - Total for 'machine learning engineer': 200 jobs
+2026-06-04 16:01:31,913 - business analyst | page 1: 20 cards found
+2026-06-04 16:01:31,922 -   Extracted: 20 jobs
+2026-06-04 16:01:53,441 - business analyst | page 2: 20 cards found
+2026-06-04 16:01:53,450 -   Extracted: 20 jobs
+2026-06-04 16:02:15,237 - business analyst | page 3: 20 cards found
+2026-06-04 16:02:15,245 -   Extracted: 20 jobs
+2026-06-04 16:02:37,176 - business analyst | page 4: 20 cards found
+2026-06-04 16:02:37,185 -   Extracted: 20 jobs
+2026-06-04 16:02:59,066 - business analyst | page 5: 20 cards found
+2026-06-04 16:02:59,074 -   Extracted: 20 jobs
+2026-06-04 16:03:20,616 - business analyst | page 6: 20 cards found
+2026-06-04 16:03:20,624 -   Extracted: 20 jobs
+2026-06-04 16:03:42,393 - business analyst | page 7: 20 cards found
+2026-06-04 16:03:42,402 -   Extracted: 20 jobs
+2026-06-04 16:04:04,092 - business analyst | page 8: 20 cards found
+2026-06-04 16:04:04,100 -   Extracted: 20 jobs
+2026-06-04 16:04:25,845 - business analyst | page 9: 20 cards found
+2026-06-04 16:04:25,853 -   Extracted: 20 jobs
+2026-06-04 16:04:47,622 - business analyst | page 10: 20 cards found
+2026-06-04 16:04:47,631 -   Extracted: 20 jobs
+2026-06-04 16:04:50,631 - Total for 'business analyst': 200 jobs
+2026-06-04 16:05:15,229 - power bi analyst | page 1: 20 cards found
+2026-06-04 16:05:15,238 -   Extracted: 20 jobs
+2026-06-04 16:05:36,867 - power bi analyst | page 2: 20 cards found
+2026-06-04 16:05:36,875 -   Extracted: 20 jobs
+2026-06-04 16:05:58,678 - power bi analyst | page 3: 20 cards found
+2026-06-04 16:05:58,687 -   Extracted: 20 jobs
+2026-06-04 16:06:20,207 - power bi analyst | page 4: 20 cards found
+2026-06-04 16:06:20,215 -   Extracted: 20 jobs
+2026-06-04 16:06:41,955 - power bi analyst | page 5: 20 cards found
+2026-06-04 16:06:41,964 -   Extracted: 20 jobs
+2026-06-04 16:07:03,626 - power bi analyst | page 6: 20 cards found
+2026-06-04 16:07:03,635 -   Extracted: 20 jobs
+2026-06-04 16:07:25,895 - power bi analyst | page 7: 20 cards found
+2026-06-04 16:07:25,903 -   Extracted: 20 jobs
+2026-06-04 16:07:47,479 - power bi analyst | page 8: 20 cards found
+2026-06-04 16:07:47,487 -   Extracted: 20 jobs
+2026-06-04 16:08:09,388 - power bi analyst | page 9: 20 cards found
+2026-06-04 16:08:09,396 -   Extracted: 20 jobs
+2026-06-04 16:08:31,077 - power bi analyst | page 10: 20 cards found
+2026-06-04 16:08:31,086 -   Extracted: 20 jobs
+2026-06-04 16:08:34,086 - Total for 'power bi analyst': 200 jobs
+2026-06-04 16:08:57,979 - sql developer | page 1: 20 cards found
+2026-06-04 16:08:57,988 -   Extracted: 20 jobs
+2026-06-04 16:09:19,761 - sql developer | page 2: 20 cards found
+2026-06-04 16:09:19,769 -   Extracted: 20 jobs
+2026-06-04 16:09:41,534 - sql developer | page 3: 20 cards found
+2026-06-04 16:09:41,543 -   Extracted: 20 jobs
+2026-06-04 16:10:03,051 - sql developer | page 4: 20 cards found
+2026-06-04 16:10:03,061 -   Extracted: 20 jobs
+2026-06-04 16:10:24,960 - sql developer | page 5: 20 cards found
+2026-06-04 16:10:24,969 -   Extracted: 20 jobs
+2026-06-04 16:10:46,655 - sql developer | page 6: 20 cards found
+2026-06-04 16:10:46,665 -   Extracted: 20 jobs
+2026-06-04 16:11:08,476 - sql developer | page 7: 20 cards found
+2026-06-04 16:11:08,484 -   Extracted: 20 jobs
+2026-06-04 16:11:30,053 - sql developer | page 8: 20 cards found
+2026-06-04 16:11:30,061 -   Extracted: 20 jobs
+2026-06-04 16:11:52,032 - sql developer | page 9: 20 cards found
+2026-06-04 16:11:52,041 -   Extracted: 20 jobs
+2026-06-04 16:12:13,581 - sql developer | page 10: 20 cards found
+2026-06-04 16:12:13,590 -   Extracted: 20 jobs
+2026-06-04 16:12:16,591 - Total for 'sql developer': 200 jobs
+2026-06-04 16:12:40,497 - analytics engineer | page 1: 20 cards found
+2026-06-04 16:12:40,505 -   Extracted: 20 jobs
+2026-06-04 16:13:02,073 - analytics engineer | page 2: 20 cards found
+2026-06-04 16:13:02,083 -   Extracted: 20 jobs
+2026-06-04 16:13:23,948 - analytics engineer | page 3: 20 cards found
+2026-06-04 16:13:23,956 -   Extracted: 20 jobs
+2026-06-04 16:13:45,482 - analytics engineer | page 4: 20 cards found
+2026-06-04 16:13:45,491 -   Extracted: 20 jobs
+2026-06-04 16:14:07,420 - analytics engineer | page 5: 20 cards found
+2026-06-04 16:14:07,429 -   Extracted: 20 jobs
+2026-06-04 16:14:29,491 - analytics engineer | page 6: 20 cards found
+2026-06-04 16:14:29,499 -   Extracted: 20 jobs
+2026-06-04 16:14:51,639 - analytics engineer | page 7: 20 cards found
+2026-06-04 16:14:51,647 -   Extracted: 20 jobs
+2026-06-04 16:15:13,263 - analytics engineer | page 8: 20 cards found
+2026-06-04 16:15:13,272 -   Extracted: 20 jobs
+2026-06-04 16:15:35,118 - analytics engineer | page 9: 20 cards found
+2026-06-04 16:15:35,126 -   Extracted: 20 jobs
+2026-06-04 16:15:56,854 - analytics engineer | page 10: 20 cards found
+2026-06-04 16:15:56,863 -   Extracted: 20 jobs
+2026-06-04 16:15:59,864 - Total for 'analytics engineer': 200 jobs

@@ -1,0 +1,39 @@
+role,priority,skill
+Data Analyst,1,sql
+Data Analyst,2,python
+Data Analyst,3,power bi
+Data Analyst,4,tableau
+Data Analyst,5,machine learning
+Data Analyst,6,excel
+Business Analyst,1,sql
+Business Analyst,2,python
+Business Analyst,3,tableau
+Business Analyst,4,machine learning
+Business Analyst,5,azure
+Business Analyst,6,power bi
+BI Analyst,1,power bi
+BI Analyst,2,sql
+BI Analyst,3,python
+BI Analyst,4,tableau
+BI Analyst,5,excel
+BI Analyst,6,azure
+Data Scientist,1,python
+Data Scientist,2,machine learning
+Data Scientist,3,nlp
+Data Scientist,4,sql
+Data Scientist,5,statistics
+Data Scientist,6,hadoop
+ML Engineer,1,machine learning
+ML Engineer,2,nlp
+ML Engineer,3,tensorflow
+ML Engineer,4,python
+ML Engineer,5,deep learning
+ML Engineer,6,sql
+Data Engineer,1,python
+Data Engineer,2,pyspark
+Data Engineer,3,sql
+Data Engineer,4,azure
+Data Engineer,5,spark
+Data Engineer,6,aws
+SQL Developer,1,sql
+SQL Developer,2,api
